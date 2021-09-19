@@ -107,4 +107,5 @@ class FastDesignProvider {
     registerCSSCustomProperties(element)
   }
 }
+console.log("FastDesignProvider")
 window.fastDesignProvider = new FastDesignProvider()
