@@ -35,6 +35,7 @@ function standardize_color(str){
 }
 
 function setAccentColor(color, selector){
+    if (color===null){return}
     color = standardize_color(color);
     const accent = color;
     const palette = createColorPalette(parseColorHexRGB(accent));
@@ -44,6 +45,7 @@ function setAccentColor(color, selector){
 }
 
 function setNeutralColor(color, selector){
+    if (color===null){return}
     color = standardize_color(color);
     const palette = createColorPalette(parseColorHexRGB(color));
     const provider = document.querySelector(selector);
@@ -52,6 +54,7 @@ function setNeutralColor(color, selector){
 }
 
 function setBackgroundColor(color, selector){
+  if (color===null){return}
   color = standardize_color(color);
   const provider = document.querySelector(selector);
   provider.backgroundColor=color;
@@ -107,5 +110,4 @@ class FastDesignProvider {
     registerCSSCustomProperties(element)
   }
 }
-console.log("FastDesignProvider")
 window.fastDesignProvider = new FastDesignProvider()
