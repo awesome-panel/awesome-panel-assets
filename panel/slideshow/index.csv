@@ -1,0 +1,29 @@
+name,gif,description
+Interactive Apps,https://raw.githubusercontent.com/MarcSkovMadsen/awesome-panel-assets/master/panel/slideshow/ny-taxi.gif,Panel enables you to build highly interactive applications
+Domain specific tools,https://raw.githubusercontent.com/MarcSkovMadsen/awesome-panel-assets/master/panel/slideshow/domain-tools.gif,Panel enables you to build specialized tools for your domain
+Custom viz tools,https://raw.githubusercontent.com/MarcSkovMadsen/awesome-panel-assets/master/panel/slideshow/viz-tools.gif,Panel and HoloViz enables you to build specialized visualization tools
+Classic dashboards,https://raw.githubusercontent.com/MarcSkovMadsen/awesome-panel-assets/master/panel/slideshow/classic-dashboard.gif,Panel enables you to build classic dashboards
+Dashboards with cross filter,https://raw.githubusercontent.com/MarcSkovMadsen/awesome-panel-assets/master/panel/slideshow/cross-filter.gif,Panel makes developing dashboards with cross filtering
+Big data visualization,https://raw.githubusercontent.com/MarcSkovMadsen/awesome-panel-assets/master/panel/slideshow/datashader.gif,Panel and Datashader makes big data visualization possible
+Interactive dataframes,https://raw.githubusercontent.com/MarcSkovMadsen/awesome-panel-assets/master/panel/slideshow/interactive.gif,"Panel and hvplot `.interactive` makes your dataframes interactive"
+Streaming,https://raw.githubusercontent.com/MarcSkovMadsen/awesome-panel-assets/master/panel/slideshow/panel-streaming.gif,Panel makes it easy to create streaming applications
+Event driven apps,https://raw.githubusercontent.com/MarcSkovMadsen/awesome-panel-assets/master/panel/slideshow/event-driven.gif,Panel enables you to react to events like click and hover
+App Frameworks,https://raw.githubusercontent.com/MarcSkovMadsen/awesome-panel-assets/master/panel/slideshow/cux-filter.gif,"Panel enables you to build specialized app frameworks like Rapids Cux Filter."
+Multi page apps,https://raw.githubusercontent.com/MarcSkovMadsen/awesome-panel-assets/master/panel/slideshow/multipage-app.gif,Panel enables you to build multi page applications
+Works with the tools you know and love,https://raw.githubusercontent.com/MarcSkovMadsen/awesome-panel-assets/master/panel/slideshow/tools-you-know-and-love.gif,Panel works with the tools you know and love
+Works with ipywidgets,https://raw.githubusercontent.com/MarcSkovMadsen/awesome-panel-assets/master/panel/slideshow/works-with-ipywidgets.gif,Panel works with Ipywidgets
+Works with auto viz,https://raw.githubusercontent.com/MarcSkovMadsen/awesome-panel-assets/master/panel/slideshow/works-with-autoviz.gif,Panel works with auto viz like Lux
+Works in Jupyter,https://raw.githubusercontent.com/MarcSkovMadsen/awesome-panel-assets/master/panel/slideshow/works-with-jupyter.gif,"Panel works in your Notebook, Jupyter labs and Jupyter Hub"
+Works in Colab,https://raw.githubusercontent.com/MarcSkovMadsen/awesome-panel-assets/master/panel/slideshow/works-in-colab.gif,Panel works in Colab
+Works in VS Code,https://raw.githubusercontent.com/MarcSkovMadsen/awesome-panel-assets/master/panel/slideshow/works-in-vscode.gif,Panel works in VS Code
+Beautiful templates,https://raw.githubusercontent.com/MarcSkovMadsen/awesome-panel-assets/master/panel/slideshow/templates.gif,Panel provides beautiful built in templates
+Powerful tables,https://raw.githubusercontent.com/MarcSkovMadsen/awesome-panel-assets/master/panel/slideshow/tables.gif,Panel provides powerful tables
+Input and output,https://raw.githubusercontent.com/MarcSkovMadsen/awesome-panel-assets/master/panel/slideshow/file-io.gif,Works with file input and output
+Custom components,https://raw.githubusercontent.com/MarcSkovMadsen/awesome-panel-assets/master/panel/slideshow/custom-components.gif,Panel makes it easy to develop custom components for your domain
+Hot Reloading,https://raw.githubusercontent.com/MarcSkovMadsen/awesome-panel-assets/master/panel/slideshow/autoreload.gif,Panel provides an efficient development workflow with `--autoreload`
+Link widgets and url,https://raw.githubusercontent.com/MarcSkovMadsen/awesome-panel-assets/master/panel/slideshow/location-sync.gif,Panel enables you to link your widgets to your url
+Concurrency,https://raw.githubusercontent.com/MarcSkovMadsen/awesome-panel-assets/master/panel/slideshow/concurrency.gif,"Panel supports threading, multiprocessing and async"
+Favorite Web Server,https://raw.githubusercontent.com/MarcSkovMadsen/awesome-panel-assets/master/panel/slideshow/10.gif,"Panel works with your favorite web server including Django, FastAPI and Flask"
+Chemistry Extension,https://raw.githubusercontent.com/MarcSkovMadsen/awesome-panel-assets/master/panel/slideshow/panel-chemistry.gif,"The community has built custom extensions for chemistry"
+HighCharts Extension,https://raw.githubusercontent.com/MarcSkovMadsen/awesome-panel-assets/master/panel/slideshow/panel-highcharts.gif,"The community has built a custom extension for HighCharts"
+Sketch Extension,https://raw.githubusercontent.com/MarcSkovMadsen/awesome-panel-assets/master/panel/slideshow/panel-sketch.gif,"The community has built a custom extension for Transcrypt and Pyodide"
